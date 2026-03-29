@@ -23,3 +23,4 @@ Your site will automatically deploy to GitHub Pages when you push to the `main` 
 2. Under "Source", select **GitHub Actions**
 
 That's it! Every push to `main` will automatically build and deploy your site to `https://<your-github-username>.github.io/<your-repository-name>/`
+# ev-charger-databank
