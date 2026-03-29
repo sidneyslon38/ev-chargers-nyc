@@ -58,7 +58,7 @@
       Search
       <input
         type="search"
-        placeholder="Station, street, or city"
+        placeholder="Station name or address"
         bind:value={searchQuery}
       />
     </label>
